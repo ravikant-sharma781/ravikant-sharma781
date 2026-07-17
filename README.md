@@ -65,7 +65,7 @@
 
 ### 🧰 Featured Work
 
-- **cloud-cost-audit-kit** — a script that turns an AWS Cost Explorer export into a prioritized savings report.
+- **[cloud-cost-audit-kit](https://github.com/ravikant-sharma781/cloud-cost-audit-kit)** — a tool that turns an AWS Cost Explorer export into a ranked spend + savings snapshot. Runs 100% locally, no credentials.
 - More infrastructure-as-code and CI/CD projects coming soon.
 
 ---
