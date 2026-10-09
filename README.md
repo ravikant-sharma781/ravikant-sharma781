@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ravikant Sharma 👋</h1>
-<h3 align="center">DevOps & Cloud Engineer — Kubernetes • AWS • GCP • CI/CD • FinOps</h3>
+<h3 align="center">DevOps & Cloud Engineer — Kubernetes • AWS • GCP • CI/CD </h3>
 
 <p align="center">
   I build and run reliable, cost-efficient cloud infrastructure. I automate delivery
