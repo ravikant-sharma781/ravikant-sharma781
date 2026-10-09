@@ -48,28 +48,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ravikant-sharma781&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikant-sharma781&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant-sharma781&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🧰 Featured Work
-
-- **[cloud-cost-audit-kit](https://github.com/ravikant-sharma781/cloud-cost-audit-kit)** — a tool that turns an AWS Cost Explorer export into a ranked spend + savings snapshot. Runs 100% locally, no credentials.
-- More infrastructure-as-code and CI/CD projects coming soon.
-
----
-
 ### 🤝 Available for freelance
 
 I take on focused engagements: **AWS/GCP cost audits, Kubernetes setup & troubleshooting, and CI/CD pipeline builds.**
